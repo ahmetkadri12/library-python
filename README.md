@@ -25,7 +25,7 @@ main.py # Main program entry
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/Library-Project.git
+   git clone https://github.com/ahmetkadri12/Library-Project.git
   cd Library-Project
   python main.py
 
